@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm dhtdht020, and I am one of the people working on the Open Shop Channel.
-
-![dhtdht020's github stats](https://github-readme-stats.vercel.app/api?username=dhtdht020&count_private=true&hide=issues,contribs)
+I'm dhtdht020
 <!--
 **dhtdht020/dhtdht020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
